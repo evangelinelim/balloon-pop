@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    margin: 1em 0;
+    margin: 1em auto;
 }
 
 button {
@@ -51,8 +51,10 @@ input {
 }
 
 img {
+    max-width: 100%;
     margin: auto;
     display: block;
+    ;
 }
 
 .game-container {
